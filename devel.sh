@@ -15,4 +15,4 @@ cd $SERVER
 python manage.py runserver 192.168.10.212:8000 >> $LOG_SERV 2>$LOG_SERV &
 
 cd $APP
-phonegap serve >> $LOG_APP &
+phonegap serve --no-autoreload >> $LOG_APP &
