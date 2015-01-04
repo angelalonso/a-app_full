@@ -1,0 +1,101 @@
+[04/Jan/2015 13:23:23] "GET /saveid/91628159891323/name/Newguy/email/ontheblock/ HTTP/1.1" 200 4
+[04/Jan/2015 13:23:25] "GET /getusers/91628159891323/ HTTP/1.1" 200 136
+[04/Jan/2015 13:39:50] "GET /getusers/91628159891323 HTTP/1.1" 301 0
+[04/Jan/2015 13:39:50] "GET /getusers/91628159891323/ HTTP/1.1" 200 136
+[04/Jan/2015 13:47:19] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:47:34] "GET /saveid/91628159891323/name/Newguy/email/ontheblock/ HTTP/1.1" 200 4
+[04/Jan/2015 13:47:36] "GET /getusers/91628159891323/ HTTP/1.1" 200 136
+[04/Jan/2015 13:47:38] "GET /saveid/43185856606208/name/Anonymous,%20I%20guess/email/shy@i.am HTTP/1.1" 404 3009
+[04/Jan/2015 13:47:38] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:47:39] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:47:42] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:50:01] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:50:15] "GET /saveid/10735170320627/name/me/email/dude HTTP/1.1" 301 0
+[04/Jan/2015 13:50:15] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:50:17] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:50:20] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 13:50:23] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:07:37] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:07:51] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:07:51] "GET /saveid/41628732152286/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 3002
+[04/Jan/2015 15:07:55] "GET /getusers/41628732152286 HTTP/1.1" 301 0
+[04/Jan/2015 15:07:55] "GET /getusers/41628732152286/ HTTP/1.1" 200 165
+[04/Jan/2015 15:21:33] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:22:44] "GET /getnewid/ HTTP/1.1" 200 13
+[04/Jan/2015 15:22:46] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:23:36] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:25:06] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:25:09] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:25:12] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:26:52] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:26:52] "GET /saveid/73895258813545/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 3002
+[04/Jan/2015 15:30:54] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:31:08] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:31:13] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:34:46] "GET /getnewid/ HTTP/1.1" 200 13
+[04/Jan/2015 15:39:09] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:39:26] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:39:26] "GET /saveid/48168224716206/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 3002
+[04/Jan/2015 15:39:30] "GET /getusers/48168224716206 HTTP/1.1" 301 0
+[04/Jan/2015 15:39:30] "GET /getusers/48168224716206/ HTTP/1.1" 200 165
+[04/Jan/2015 15:42:08] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:42:12] "GET /getnewid/ HTTP/1.1" 200 13
+[04/Jan/2015 15:42:16] "GET /saveid/5163346196693/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 2999
+[04/Jan/2015 15:42:16] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:42:20] "GET /getusers/5163346196693 HTTP/1.1" 301 0
+[04/Jan/2015 15:42:21] "GET /getusers/5163346196693/ HTTP/1.1" 200 165
+[04/Jan/2015 15:42:59] "GET /getusers/5163346196693/ HTTP/1.1" 200 165
+[04/Jan/2015 15:46:00] "GET /getusers/5163346196693 HTTP/1.1" 301 0
+[04/Jan/2015 15:46:00] "GET /getusers/5163346196693/ HTTP/1.1" 200 165
+[04/Jan/2015 15:48:10] "GET /getusers/5163346196693/ HTTP/1.1" 200 165
+[04/Jan/2015 15:49:31] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:49:36] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:49:36] "GET /saveid/75304522231943/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 3002
+[04/Jan/2015 15:49:43] "GET /getusers/75304522231943 HTTP/1.1" 301 0
+[04/Jan/2015 15:49:43] "GET /getusers/75304522231943/ HTTP/1.1" 200 165
+[04/Jan/2015 15:54:53] "GET /getusers/75304522231943 HTTP/1.1" 301 0
+[04/Jan/2015 15:54:53] "GET /getusers/75304522231943/ HTTP/1.1" 200 165
+[04/Jan/2015 15:55:16] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:55:27] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:55:27] "GET /saveid/84666089389647/name/me/email/blablablito HTTP/1.1" 301 0
+[04/Jan/2015 15:55:29] "GET /saveid/84666089389647/name/me/email/blablablito/ HTTP/1.1" 200 4
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 212, in write
+    self.send_headers()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 270, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 194, in send_preamble
+    'Date: %s\r\n' % format_date_time(time.time())
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[04/Jan/2015 15:55:29] "GET /saveid/84666089389647/name/me/email/blablablito/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 595, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 653, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 712, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[04/Jan/2015 15:55:34] "GET /getusers/84666089389647 HTTP/1.1" 301 0
+[04/Jan/2015 15:55:34] "GET /getusers/84666089389647/ HTTP/1.1" 200 165
+[04/Jan/2015 15:55:56] "GET /getnewid/ HTTP/1.1" 200 14
+[04/Jan/2015 15:55:57] "GET /getnewid/ HTTP/1.1" 200 13
+[04/Jan/2015 15:55:57] "GET /saveid/58493647404075/name/Anonymous_I_guess/email/shy@i.am HTTP/1.1" 404 3002
+[04/Jan/2015 15:56:03] "GET /getusers/58493647404075 HTTP/1.1" 301 0
+[04/Jan/2015 15:56:03] "GET /getusers/58493647404075/ HTTP/1.1" 200 190
