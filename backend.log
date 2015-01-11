@@ -1,14 +1,5 @@
-[07/Jan/2015 08:07:15] "GET /getnewid/ HTTP/1.1" 200 14
-[07/Jan/2015 08:07:31] "GET /saveid/57175059757142/name/angel%20movil/email/movil HTTP/1.1" 301 0
-[07/Jan/2015 08:07:31] "GET /getnewid/ HTTP/1.1" 200 14
-[07/Jan/2015 08:07:32] "GET /getnewid/ HTTP/1.1" 200 13
-[07/Jan/2015 08:07:36] "GET /getnewid/ HTTP/1.1" 200 14
-[07/Jan/2015 08:07:42] "GET /getnewid/ HTTP/1.1" 200 13
-[07/Jan/2015 08:07:43] "GET /getnewid/ HTTP/1.1" 200 14
-[07/Jan/2015 08:07:44] "GET /getnewid/ HTTP/1.1" 200 14
-[07/Jan/2015 08:07:45] "GET /getnewid/ HTTP/1.1" 200 14
+[11/Jan/2015 11:04:53] "POST /getusers/2447825128104/ HTTP/1.1" 200 31
 /usr/lib/python2.7/wsgiref/handlers.py:127: DeprecationWarning: Creating streaming responses with `HttpResponse` is deprecated. Use `StreamingHttpResponse` instead if you need the streaming behavior.
   for data in self.result:
 
-[07/Jan/2015 08:08:03] "GET /user/75304522231943/ HTTP/1.1" 200 1
-[07/Jan/2015 08:08:03] "GET /getusers/75304522231943/ HTTP/1.1" 200 408
+[11/Jan/2015 11:04:53] "POST /user/2447825128104/ HTTP/1.1" 200 1
